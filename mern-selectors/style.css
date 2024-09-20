@@ -1,0 +1,43 @@
+img{
+    width:300px;
+    height:auto;
+    display:inline-block
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}.Tollywood{
+   
+   border: 5px solid darkorange;
+   background-color: yellow;
+   box-shadow: 10px 10px 10px black;
+   
+ }
+ .bollywood{
+    
+   border: 5px solid lightsalmon;
+   background-color: blue;
+   box-shadow: 10px 10px 10px black;
+   
+
+ }
+ .kollywood{
+     
+   border: 5px solid blue;
+   background-color: brown;
+   box-shadow: 10px 10px 10px black;
+
+ }
+ .sandalwood{
+    border: 5px solid gold;
+    background-color: deepskyblue;
+    box-shadow: 10px 10px 10px black;
+ 
+
+ }
+ .tolly{
+    color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
